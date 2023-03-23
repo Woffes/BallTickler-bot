@@ -1,4 +1,3 @@
-console.log('bruv');
 const token = 'MTA4ODAxMzI3OTI1NjkxNjAMTA4ODAxMzI3OTI1NjkxNjA0OA.Gn7Jqg.topN23Z18g9EDG3ZnjQdI02TxMOnclOtFAilWw0OA.Gn7Jqg.topN23Z18g9EDG3ZnjQdI02TxMOnclOtFAilWw'
 
 console.log('tickle');
