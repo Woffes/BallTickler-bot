@@ -1,5 +1,5 @@
 console.log('bruv');
-const token = 'BOT_TOKEN'
+const token = 'MTA4ODAxMzI3OTI1NjkxNjAMTA4ODAxMzI3OTI1NjkxNjA0OA.Gn7Jqg.topN23Z18g9EDG3ZnjQdI02TxMOnclOtFAilWw0OA.Gn7Jqg.topN23Z18g9EDG3ZnjQdI02TxMOnclOtFAilWw'
 
 console.log('tickle');
 const { Client, Events, GatewayIntentBits } = require('discord.js'); const client = new Client({
