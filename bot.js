@@ -1,4 +1,4 @@
-const token = 'MTA4ODAxMzI3OTI1NjkxNjA0OA.GpH65Y.TJBTn30j4jzEdCuvtIxG48739BZYbG2L8qbjFY'
+const token = 'MTA4ODAxMzI3OTI1NjkxNjA0OA.GZh5Vk.8_oBD2A4X1wNFv0OwQaOlXnEphaKWyTk59x6ls'
 
 console.log('tickle');
 const { Client, Events, GatewayIntentBits } = require('discord.js'); 
