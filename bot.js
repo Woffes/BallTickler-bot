@@ -16,7 +16,7 @@ client.on(Events.MessageCreate, onMessage);
 
 function onMessage(msg){
     if (msg.content.includes('hej')){
-        msg.reply('sup');
+        msg.reply('tickle');
     }
     console.log(msg);
 }
